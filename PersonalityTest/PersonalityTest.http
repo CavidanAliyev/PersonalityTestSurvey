@@ -1,0 +1,6 @@
+@PersonalityTest_HostAddress = http://localhost:5192
+
+GET {{PersonalityTest_HostAddress}}/api/question
+Accept: application/json
+
+###
